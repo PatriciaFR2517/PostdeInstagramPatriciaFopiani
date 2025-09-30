@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+.divheader {
+    text-align: center;
+    border: solid white;
+    color:blue
+}
+.Divbody {
+    background: rgb(159, 221, 252);
+    height:100%;
+    width: 100%;  
+}
+
+.cantantes {
+    width:300px;
+    height:410px;
+    border: solid rgb(186, 207, 255);
+    background: white;
+    margin-left: 40%;
+}
+img {
+    width: 300px;
+    height: 250px;
+}
+.cantante-header >p {
+    margin-left: 80%;
+    margin-top: -40px;
+    color:rgb(192, 191, 191);
+}
+.cantante-footer {
+    text-align: center;
+}
+.cantante-header >h2 {
+    margin-left:10px;
+    color: rgb(138, 183, 204)
+}
